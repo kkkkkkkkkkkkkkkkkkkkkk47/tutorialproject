@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_form = 'abiolakolade68@gmail.com';
+$email_form = 'tutorialproject.pages.dev/contact';
 
 $email_subject = 'New Form Submission';
 
